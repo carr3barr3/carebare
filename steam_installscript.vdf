@@ -1,0 +1,11 @@
+"InstallScript"
+{
+	"Firewall"
+	{
+		"Space War Game"		"%INSTALLDIR%\\Binaries\\Win64\\BrgGame-Steam.exe"
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"408288e1ea4ad3bc5196c058bb211bec83f53ba4023c72e49b8c0eab4669635907e87d6f9d920faca4ed1b201516650b26f8a310276735951ffac0c43c90a4f952d318cc8558fbf22b7a98a8b653fb453c7765753c91c31b75ae3b72a59773eaf2acb531b0baccbb44682263a970ebdebcf2ccc8b23a5b63c3f35b139b88258c"
+}
